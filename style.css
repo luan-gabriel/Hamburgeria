@@ -17,7 +17,7 @@ body{
 .container{
     width: 100vw;
     max-width: 2000px;
-    height: 2500px;
+    height: 3000px;
     background-color: #f5d104;
     border-radius: 20px;
     font-family: 'Poppins';
@@ -208,5 +208,10 @@ body{
 }
 
 
+.tamanhoDaFonte{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    
 
+}
 
